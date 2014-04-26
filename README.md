@@ -15,7 +15,6 @@ $ firefox localhost:8080/index.html
 TODO
 ----
 
-* Add d3.js dependency (with Bower?)
 * Implement dataset selector
 * Implement zoom (with buttons also)
 * Implement navigation (with buttons also)

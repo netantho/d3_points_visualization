@@ -3,14 +3,16 @@
   "version": "0.0.1",
   "author": "Nodejitsu <netantho@gmail.com>",
   "scripts": {
-    "start": "node ./webserver.js"
+    "start": "node ./webserver.js",
+    "postinstall": "./node_modules/bower/bin/bower install"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/netantho/d3_points_visualization.git"
   },
   "dependencies": {
-    "connect": "~2.14.5"
+    "connect": "~2.14.5",
+    "bower": "*"
   },
   "devDependencies": {},
   "license": "MIT"

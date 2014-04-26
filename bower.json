@@ -1,0 +1,12 @@
+{
+  "name": "d3-points-visualization",
+  "version": "0.0.0",
+  "authors": [
+    "Anthony Verez <netantho@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/netantho/d3_points_visualization",
+  "dependencies": {
+    "d3": "~3.4.6"
+  }
+}
