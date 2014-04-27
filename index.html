@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="bower_components/d3/d3.min.js"></script>
+</head>
+<body>
+	<script src="d3_points_visualization.js"></script>
+	<h2><span class="title">mds2d_5k_100.tsv</span></h2>
+	<select onchange="render(options[this.selectedIndex].value)">
+	 	<option value="datasets/5k_cluster_label.tsv">5k points with clusters and labels</option>
+	 	<option value="datasets/sample_750_clusters.tsv">750 points with clusters</option>
+ 	</select>
+ 	Use drag and drop to navigate and your mouse wheel to zoom
+</body>

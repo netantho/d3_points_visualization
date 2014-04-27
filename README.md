@@ -1,7 +1,7 @@
 D3 points visualization
 =======================
 
-Visualize points in 2D with [D3.js](http://d3js.org/) with a zoom and dataset selection
+Visualize your points (and clusters) in 2D with [D3.js](http://d3js.org/) with a zoom and dataset selection
 
 Usage
 -----
@@ -15,9 +15,5 @@ $ firefox localhost:8080/index.html
 TODO
 ----
 
-* Implement dataset selector
-* Implement zoom (with buttons also)
-* Implement navigation (with buttons also)
-* Add instructions
-* Add screenshot in the README
+* Demo on a github.io webpage
 * Publish npm module
