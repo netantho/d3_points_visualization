@@ -16,4 +16,3 @@ TODO
 ----
 
 * Demo on a github.io webpage
-* Publish npm module
