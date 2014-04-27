@@ -1,7 +1,7 @@
 {
   "name": "d3-points-visualization",
-  "version": "0.0.1",
-  "author": "Nodejitsu <netantho@gmail.com>",
+  "version": "0.0.2",
+  "author": "Anthony Verez <netantho@gmail.com>",
   "scripts": {
     "start": "node ./webserver.js",
     "postinstall": "./node_modules/bower/bin/bower install"
